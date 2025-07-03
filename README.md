@@ -1,4 +1,4 @@
-A python built to try different ciphers and also has a password strength checker.
+A python tool to try different ciphers and also has a password strength checker.
 
 Password strength checker: has entropy calculation for a simple outcome of strength.
 
